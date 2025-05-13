@@ -58,6 +58,6 @@
 
 - Extracted plate numbers shown in text box
 
-  📌 **Summary**
+📌 **Summary**
   
 This project combines Computer Vision, Deep Learning, and OCR to build a practical and scalable Rider Detection System. By integrating these technologies into a GUI-based application, the solution is easy to operate for non-technical users and can be extended to real-time deployment with camera streams or edge devices.
